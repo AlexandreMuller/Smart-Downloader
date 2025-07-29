@@ -1,0 +1,10 @@
+# Bibliotecas necessárias para o Smart Downloader
+
+# Interface gráfica
+PySide6>=6.0.0
+
+# HTTP requests e downloads
+requests>=2.25.0
+
+# Interface de seleção de arquivos/pastas
+easygui>=0.98.0
